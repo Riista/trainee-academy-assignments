@@ -1,0 +1,40 @@
+.socialimg {
+    width: 6em;
+    height: 6em;
+}
+
+h1 {
+    color: #1e0c81;
+    text-shadow: 0.05em 0.1em #7ddaf1;
+    font-weight: bold;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+}    
+
+body {
+    background-color: #c3e7f9;
+    color: #dddddd;
+    height: 100vh;
+}
+
+.background {
+    margin: auto;
+    padding: 0;
+    position: absolute;
+    width: 100%;
+    min-height: 100%;
+}
+
+.main-container {
+    font-size: 1.25em;
+    font-weight: bold;
+    vertical-align: middle;
+    max-width: 70em;
+    margin: auto;
+    outline: 0.5em dashed #3692e8;
+    background-color: rgba(74, 188, 245, 0.5);
+    border-radius: 2em;
+}
