@@ -11,6 +11,7 @@ This is from our Trainee Academy course, the assignment goes like this:
 ### a)
 
 Using your knowledge of Bootstrap and what you’ve learned so far, re-create the following page with HTML, Bootstrap and CSS.
+![Social media accounts](social.png)
 
 Each icon and the text under it should be inside one element that’s a link to the respective page.
 
@@ -18,7 +19,8 @@ You can fetch the icons for the social media services from below:
 
 ### EXTRA: b), Responsivity
 
-Make the page scale to different screen sizes. On a widescreen desktop monitor with a maximized browser window, the icons should be arranged as in a). On a small browser window, the icons should collapse into multiple rows.
+Make the page scale to different screen sizes. On a widescreen desktop monitor with a maximized browser window, the icons should be arranged as in a). On a small browser window, the icons should collapse into multiple rows like this:
+![Social media accounts in a responsive way](social_responsive.png)
 
 My solution can be found in this repository, this exercise just took some attension to detail, and some testing and learning with css and bootstrap. Just open the html-file from your computer to see the final product. 
 
